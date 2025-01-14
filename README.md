@@ -75,6 +75,6 @@ open index.html
 Thanks for checking out my portfolio! Feel free to reach out if you'd like to collaborate or need any further information.
 
 
-This README explains the purpose of your portfolio website and highlights key sections. It's also easy for users to follow installation instructions and access your contact and social media information.
+
 
 
